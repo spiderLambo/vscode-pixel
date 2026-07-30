@@ -1,0 +1,8 @@
+{
+  "iconDefinitions": {
+    "_file": {
+      "iconPath": "./icons/test.png"
+    }
+  },
+  "file": "_file"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "vscode-pixel",
+  "displayName": "vscode-pixel",
+  "description": "Icon theme for vscode",
+  "version": "0.1.0",
+  "publisher": "Spider Lambo",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "vscode-pixel",
+        "label": "vscode-pixel",
+        "path": "./vscode-pixel-theme.json"
+      }
+    ]
+  }
+}

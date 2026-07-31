@@ -12,28 +12,30 @@ I made file / folder icon only when i understand the language
 
 ##### structure
 
-- HTML
-- JSON
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [JSON](https://www.rfc-editor.org/info/rfc8259/)
 
 ##### presentation
 
-- CSS
-- SASS
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [SASS](https://sass-lang.com/documentation/)
 
 ##### execution
 
-- JavaScript
-- Python
-- Ruby
-- TypeScript
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Python](https://docs.python.org/3/)
+- [Ruby](https://docs.ruby-lang.org)
+- [TypeScript](https://www.typescriptlang.org/docs/)
 
 ##### requests
+
+- [SQL](https://www.iso.org/standard/76580.html)
 
 ##### config
 
 ##### render
 
-- Markdown
+- [Markdown](https://spec.commonmark.org/)
 
 ##### audiovisual
 

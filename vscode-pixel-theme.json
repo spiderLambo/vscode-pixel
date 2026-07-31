@@ -9,6 +9,8 @@
     "_python": { "iconPath": "./icons/files/python.png" },
     "_ruby": { "iconPath": "./icons/files/ruby.png" },
     "_typescript": { "iconPath": "./icons/files/typescript.png" },
+    "_sass": { "iconPath": "./icons/files/sass.png" },
+    "_scss": { "iconPath": "./icons/files/scss.png" },
     "_folder": { "iconPath": "./icons/folders/close/folder.png" },
     "_folderO": { "iconPath": "./icons/folders/open/folder.png" }
   },
@@ -46,7 +48,11 @@
 
     "ts": "_typescript",
     "mts": "_typescript",
-    "cts": "_typescript"
+    "cts": "_typescript",
+
+    "sass": "_sass",
+
+    "scss": "_scss"
   },
   "folder": "_folder",
   "folderExpanded": "_folderO"

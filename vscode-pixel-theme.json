@@ -3,9 +3,10 @@
     "_file": { "iconPath": "./icons/files/file.png" },
     "_html": { "iconPath": "./icons/files/html.png" },
     "_css": { "iconPath": "./icons/files/css.png" },
-    "_js": { "iconPath": "./icons/files/js.png" },
-    "_md": { "iconPath": "./icons/files/md.png" },
+    "_javascript": { "iconPath": "./icons/files/javascript.png" },
+    "_markdown": { "iconPath": "./icons/files/markdown.png" },
     "_json": { "iconPath": "./icons/files/json.png" },
+    "_python": { "iconPath": "./icons/files/python.png" },
     "_folder": { "iconPath": "./icons/folders/close/folder.png" },
     "_folderO": { "iconPath": "./icons/folders/open/folder.png" }
   },
@@ -16,20 +17,25 @@
 
     "css": "_css",
 
-    "js": "_js",
-    "mjs": "_js",
-    "cjs": "_js",
-    "es6": "_js",
+    "js": "_javascript",
+    "mjs": "_javascript",
+    "cjs": "_javascript",
+    "es6": "_javascript",
 
-    "md": "_md",
-    "markdown": "_md",
-    "mdown": "_md",
-    "mdtxt": "_md",
-    "mdtext": "_md",
-    "mkdn": "_md",
-    "mdwn": "_md",
+    "md": "_markdown",
+    "markdown": "_markdown",
+    "mdown": "_markdown",
+    "mdtxt": "_markdown",
+    "mdtext": "_markdown",
+    "mkdn": "_markdown",
+    "mdwn": "_markdown",
 
-    "json": "_json"
+    "json": "_json",
+
+    "py": "_python",
+    "pyw": "_python",
+    "pyi": "_python",
+    "pyd": "_python"
   },
   "folder": "_folder",
   "folderExpanded": "_folderO"

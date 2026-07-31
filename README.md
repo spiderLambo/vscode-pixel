@@ -22,6 +22,7 @@ I made file / folder icon only when i understand the language
 ##### execution
 
 - JavaSript
+- Python
 
 ##### requests
 

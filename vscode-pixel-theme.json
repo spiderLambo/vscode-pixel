@@ -1,16 +1,14 @@
 {
   "iconDefinitions": {
-    "_file": {
-      "iconPath": "./icons/files/file.png"
-    },
-    "_folder": {
-      "iconPath": "./icons/folders/close/folder.png"
-    },
-    "_folderO": {
-      "iconPath": "./icons/folders/open/folder.png"
-    }
+    "_file": { "iconPath": "./icons/files/file.png" },
+    "_html": { "iconPath": "./icons/files/html.png" },
+    "_folder": { "iconPath": "./icons/folders/close/folder.png" },
+    "_folderO": { "iconPath": "./icons/folders/open/folder.png" }
   },
   "file": "_file",
+  "fileExtensions": {
+    "html": "_html"
+  },
   "folder": "_folder",
   "folderExpanded": "_folderO"
 }

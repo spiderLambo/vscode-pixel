@@ -10,7 +10,7 @@
 | ----------------------------- | ------ |
 | default                       | done   |
 | **web front**                 |
-| html                          | todo   |
+| html                          | done   |
 | pug                           | todo   |
 | haml                          | todo   |
 | css                           | todo   |

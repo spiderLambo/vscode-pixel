@@ -4,6 +4,7 @@
     "_html": { "iconPath": "./icons/files/html.png" },
     "_css": { "iconPath": "./icons/files/css.png" },
     "_js": { "iconPath": "./icons/files/js.png" },
+    "_md": { "iconPath": "./icons/files/md.png" },
     "_folder": { "iconPath": "./icons/folders/close/folder.png" },
     "_folderO": { "iconPath": "./icons/folders/open/folder.png" }
   },
@@ -11,7 +12,8 @@
   "fileExtensions": {
     "html": "_html",
     "css": "_css",
-    "js": "_js"
+    "js": "_js",
+    "md": "_md"
   },
   "folder": "_folder",
   "folderExpanded": "_folderO"

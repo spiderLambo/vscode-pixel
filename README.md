@@ -13,7 +13,7 @@
 | html                          | done   |
 | pug                           | todo   |
 | haml                          | todo   |
-| css                           | todo   |
+| css                           | done   |
 | sass                          | todo   |
 | scss                          | todo   |
 | postcss                       | todo   |
@@ -272,7 +272,6 @@
 | seed               | todo          | todo          |
 | tests              | todo          | todo          |
 | spec               | todo          | todo          |
-| **tests**          | todo          | todo          |
 | config             | todo          | todo          |
 | env                | todo          | todo          |
 | database           | todo          | todo          |

@@ -3,13 +3,15 @@
     "_file": { "iconPath": "./icons/files/file.png" },
     "_html": { "iconPath": "./icons/files/html.png" },
     "_css": { "iconPath": "./icons/files/css.png" },
+    "_js": { "iconPath": "./icons/files/js.png" },
     "_folder": { "iconPath": "./icons/folders/close/folder.png" },
     "_folderO": { "iconPath": "./icons/folders/open/folder.png" }
   },
   "file": "_file",
   "fileExtensions": {
     "html": "_html",
-    "css": "_css"
+    "css": "_css",
+    "js": "_js"
   },
   "folder": "_folder",
   "folderExpanded": "_folderO"

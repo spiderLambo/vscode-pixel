@@ -17,7 +17,7 @@
 | sass                          | todo   |
 | scss                          | todo   |
 | postcss                       | todo   |
-| js                            | todo   |
+| js                            | done   |
 | ts                            | todo   |
 | declare.ts                    | todo   |
 | coffescript                   | todo   |

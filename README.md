@@ -10,15 +10,28 @@ I made file / folder icon only when i understand the language
 
 - default
 
-##### Web front
+##### structure
 
-- html
-- css
-- js
+- HTML
+- JSON
 
-##### Texte
+##### presentation
 
-- md
+- CSS
+
+##### execution
+
+- JavaSript
+
+##### requests
+
+##### config
+
+##### render
+
+- Markdown
+
+##### audiovisual
 
 #### File with specific name
 

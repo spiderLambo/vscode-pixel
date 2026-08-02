@@ -12,6 +12,7 @@
     "_sass": { "iconPath": "./icons/files/sass.png" },
     "_scss": { "iconPath": "./icons/files/scss.png" },
     "_sql": { "iconPath": "./icons/files/sql.png" },
+    "_db": { "iconPath": "./icons/files/db.png" },
     "_vue": { "iconPath": "./icons/files/vue.png" },
     "_folder": { "iconPath": "./icons/folders/close/folder.png" },
     "_folderO": { "iconPath": "./icons/folders/open/folder.png" }
@@ -57,6 +58,7 @@
     "scss": "_scss",
 
     "sql": "_sql",
+    "db": "_db",
 
     "vue": "_vue"
   },

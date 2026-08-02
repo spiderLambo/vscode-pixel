@@ -21,6 +21,7 @@
     "_gif": { "iconPath": "./icons/files/gif.png" },
     "_tiff": { "iconPath": "./icons/files/tiff.png" },
     "_ico": { "iconPath": "./icons/files/ico.png" },
+    "_heic": { "iconPath": "./icons/files/heic.png" },
     "_folder": { "iconPath": "./icons/folders/close/folder.png" },
     "_folderO": { "iconPath": "./icons/folders/open/folder.png" }
   },
@@ -81,7 +82,9 @@
     "gif": "_gif",
     "tiff": "_tiff",
     "tif": "_tiff",
-    "ico": "_ico"
+    "ico": "_ico",
+    "heic": "_heic",
+    "heif": "_heic"
   },
   "folder": "_folder",
   "folderExpanded": "_folderO"

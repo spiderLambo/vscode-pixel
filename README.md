@@ -47,6 +47,7 @@ I made file / folder icon only when i understand the language
 - GIF
 - TIFF
 - ICO
+- HEIC
 
 #### File with specific name
 

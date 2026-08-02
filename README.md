@@ -45,6 +45,7 @@ I made file / folder icon only when i understand the language
 - WebP
 - SVG
 - GIF
+- TIFF
 
 #### File with specific name
 

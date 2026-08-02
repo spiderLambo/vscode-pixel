@@ -15,6 +15,7 @@
     "_db": { "iconPath": "./icons/files/db.png" },
     "_vue": { "iconPath": "./icons/files/vue.png" },
     "_png": { "iconPath": "./icons/files/png.png" },
+    "_jpeg": { "iconPath": "./icons/files/jpeg.png" },
     "_folder": { "iconPath": "./icons/folders/close/folder.png" },
     "_folderO": { "iconPath": "./icons/folders/open/folder.png" }
   },
@@ -63,7 +64,10 @@
 
     "vue": "_vue",
 
-    "png": "_png"
+    "png": "_png",
+
+    "jpeg": "_jpeg",
+    "jpg": "_jpeg"
   },
   "folder": "_folder",
   "folderExpanded": "_folderO"

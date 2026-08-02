@@ -41,6 +41,7 @@ I made file / folder icon only when i understand the language
 ##### audiovisual
 
 - PNG
+- JPEG
 
 #### File with specific name
 

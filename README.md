@@ -40,6 +40,8 @@ I made file / folder icon only when i understand the language
 
 ##### audiovisual
 
+- PNG
+
 #### File with specific name
 
 - not yet

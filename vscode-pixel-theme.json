@@ -14,6 +14,7 @@
     "_sql": { "iconPath": "./icons/files/sql.png" },
     "_db": { "iconPath": "./icons/files/db.png" },
     "_vue": { "iconPath": "./icons/files/vue.png" },
+    "_png": { "iconPath": "./icons/files/png.png" },
     "_folder": { "iconPath": "./icons/folders/close/folder.png" },
     "_folderO": { "iconPath": "./icons/folders/open/folder.png" }
   },
@@ -60,7 +61,9 @@
     "sql": "_sql",
     "db": "_db",
 
-    "vue": "_vue"
+    "vue": "_vue",
+
+    "png": "_png"
   },
   "folder": "_folder",
   "folderExpanded": "_folderO"

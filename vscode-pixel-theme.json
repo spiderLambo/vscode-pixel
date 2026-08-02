@@ -23,6 +23,7 @@
     "_ico": { "iconPath": "./icons/files/ico.png" },
     "_heic": { "iconPath": "./icons/files/heic.png" },
     "_bitmap": { "iconPath": "./icons/files/bitmap.png" },
+    "_avif": { "iconPath": "./icons/files/avif.png" },
     "_folder": { "iconPath": "./icons/folders/close/folder.png" },
     "_folderO": { "iconPath": "./icons/folders/open/folder.png" }
   },
@@ -88,7 +89,8 @@
     "heif": "_heic",
     "bmp": "_bitmap",
     "dib": "_bitmap",
-    "rle": "_bitmap"
+    "rle": "_bitmap",
+    "avif": "_avif"
   },
   "folder": "_folder",
   "folderExpanded": "_folderO"

@@ -49,6 +49,7 @@ I made file / folder icon only when i understand the language
 - ICO
 - HEIC
 - Bitmap
+- AVIF
 
 #### File with specific name
 

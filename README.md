@@ -42,6 +42,9 @@ I made file / folder icon only when i understand the language
 
 - PNG
 - JPEG
+- WebP
+- SVG
+- GIF
 
 #### File with specific name
 

@@ -18,6 +18,7 @@
     "_jpeg": { "iconPath": "./icons/files/jpeg.png" },
     "_webp": { "iconPath": "./icons/files/webp.png" },
     "_svg": { "iconPath": "./icons/files/svg.png" },
+    "_gif": { "iconPath": "./icons/files/gif.png" },
     "_folder": { "iconPath": "./icons/folders/close/folder.png" },
     "_folderO": { "iconPath": "./icons/folders/open/folder.png" }
   },
@@ -74,7 +75,8 @@
     "jfi": "_jpeg",
     "webp": "_webp",
     "svg": "_svg",
-    "svgz": "_svg"
+    "svgz": "_svg",
+    "gif": "_gif"
   },
   "folder": "_folder",
   "folderExpanded": "_folderO"

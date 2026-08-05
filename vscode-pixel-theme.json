@@ -26,6 +26,7 @@
     "_avif": { "iconPath": "./icons/files/avif.png" },
     "_jsx": { "iconPath": "./icons/files/jsx.png" },
     "_tsx": { "iconPath": "./icons/files/tsx.png" },
+    "_cpp": { "iconPath": "./icons/files/c++.png" },
     "_folder": { "iconPath": "./icons/folders/close/folder.png" },
     "_folderO": { "iconPath": "./icons/folders/open/folder.png" }
   },
@@ -95,7 +96,12 @@
     "avif": "_avif",
 
     "jsx": "_jsx",
-    "tsx": "_tsx"
+    "tsx": "_tsx",
+
+    "cpp": "_cpp",
+    "c++": "_cpp",
+    "cxx": "_cpp",
+    "cc": "_cpp"
   },
   "folder": "_folder",
   "folderExpanded": "_folderO"

@@ -28,6 +28,7 @@ I made file / folder icon only when i understand the language
 - [TypeScript](https://www.typescriptlang.org/docs/)
 - [VueJS](https://vuejs.org/)
 - [React.js](https://react.dev/)
+- [C++](https://isocpp.org/)
 
 ##### requests
 

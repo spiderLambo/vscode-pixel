@@ -27,6 +27,7 @@
     "_jsx": { "iconPath": "./icons/files/jsx.png" },
     "_tsx": { "iconPath": "./icons/files/tsx.png" },
     "_cpp": { "iconPath": "./icons/files/c++.png" },
+    "_h": { "iconPath": "./icons/files/h.png" },
     "_folder": { "iconPath": "./icons/folders/close/folder.png" },
     "_folderO": { "iconPath": "./icons/folders/open/folder.png" }
   },
@@ -101,7 +102,14 @@
     "cpp": "_cpp",
     "c++": "_cpp",
     "cxx": "_cpp",
-    "cc": "_cpp"
+    "cc": "_cpp",
+    "ipp": "_cpp",
+    "tpp": "_cpp",
+    "h": "_h",
+    "hpp": "_h",
+    "hh": "_h",
+    "hxx": "_h",
+    "h++": "_h"
   },
   "folder": "_folder",
   "folderExpanded": "_folderO"

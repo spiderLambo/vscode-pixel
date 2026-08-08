@@ -36,6 +36,8 @@ I made file / folder icon only when i understand the language
 
 ##### config
 
+- Text
+
 ##### render
 
 - [Markdown](https://spec.commonmark.org/)

@@ -29,6 +29,7 @@
     "_cpp": { "iconPath": "./icons/files/c++.png" },
     "_h": { "iconPath": "./icons/files/h.png" },
     "_text": { "iconPath": "./icons/files/text.png" },
+    "_sh": { "iconPath": "./icons/files/sh.png" },
     "_folder": { "iconPath": "./icons/folders/close/folder.png" },
     "_folderO": { "iconPath": "./icons/folders/open/folder.png" }
   },
@@ -113,7 +114,9 @@
     "h++": "_h",
 
     "text": "_text",
-    "txt": "_text"
+    "txt": "_text",
+
+    "sh": "_sh"
   },
   "folder": "_folder",
   "folderExpanded": "_folderO"

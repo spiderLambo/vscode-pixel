@@ -31,14 +31,16 @@
     "_text": { "iconPath": "./icons/files/text.png" },
     "_sh": { "iconPath": "./icons/files/sh.png" },
 
-    "_makefile": { "iconPath": "./icons/files/Specific name/MAKEFILE.png" },
+    "_makefile": { "iconPath": "./icons/files/specificName/MAKEFILE.png" },
+    "_git": { "iconPath": "./icons/files/specificName/git.png" },
 
     "_folder": { "iconPath": "./icons/folders/close/folder.png" },
     "_folderO": { "iconPath": "./icons/folders/open/folder.png" }
   },
   "file": "_file",
   "fileNames": {
-    "MAKEFILE": "_makefile"
+    "MAKEFILE": "_makefile",
+    ".gitignore": "_git"
   },
   "fileExtensions": {
     "html": "_html",

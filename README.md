@@ -59,6 +59,7 @@ I made file / folder icon only when i understand the language
 #### File with specific name
 
 - MAKEFILE
+- [Git files](https://git-scm.com/)
 
 ### Folder
 

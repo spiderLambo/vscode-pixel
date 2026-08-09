@@ -30,6 +30,7 @@
     "_h": { "iconPath": "./icons/files/h.png" },
     "_text": { "iconPath": "./icons/files/text.png" },
     "_sh": { "iconPath": "./icons/files/sh.png" },
+    "_vscode": { "iconPath": "./icons/files/vscode.png" },
 
     "_makefile": { "iconPath": "./icons/files/specificName/MAKEFILE.png" },
     "_git": { "iconPath": "./icons/files/specificName/git.png" },
@@ -40,7 +41,8 @@
   "file": "_file",
   "fileNames": {
     "MAKEFILE": "_makefile",
-    ".gitignore": "_git"
+    ".gitignore": "_git",
+    "launch.json": "_vscode"
   },
   "fileExtensions": {
     "html": "_html",
@@ -124,7 +126,9 @@
     "text": "_text",
     "txt": "_text",
 
-    "sh": "_sh"
+    "sh": "_sh",
+
+    "vsix": "_vscode"
   },
   "folder": "_folder",
   "folderExpanded": "_folderO"

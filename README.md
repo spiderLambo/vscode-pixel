@@ -9,6 +9,7 @@ I made file / folder icon only when i understand the language
 ### Files
 
 - default
+- File relative to VSCode
 
 ##### structure
 
